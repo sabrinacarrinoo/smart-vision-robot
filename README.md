@@ -28,6 +28,7 @@ The robot analyzes its surroundings using image processing techniques and decide
 1. Clone the repository:
 
 git clone https://github.com/sabrinacarrinoo/smart-vision-robot.git
+
 cd smart-vision-robot
 
 
@@ -55,10 +56,10 @@ python main.py
 
 
 
-## 👩‍💻 Author
+## Author
 - Sabrina Carrino
 
 ---
 
-## 📄 License
+## License
 This project is open-source and available under the MIT License.
